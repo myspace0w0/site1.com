@@ -1,5 +1,5 @@
 About project:
-Fill the form - watch result (clicker)
+Fill the form - watch result
 
 Used technologies:
 MySQL
