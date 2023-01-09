@@ -9,11 +9,17 @@ PHP, Laravel
 Installation
 
 cd laravel
+
 composer install
+
 создать базу данных
+
 создать файл .env, в нём подкючиться к базе данных
+
 php artisan migrate
+
 Раскоментировать нужные сиды и выполнить. Папка database/seeders/DatabaseSeeder.php и запустить сиды на выполнение php artisan db:seed
+
 php artisan serve
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the Laravel documentation.
